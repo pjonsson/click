@@ -1,5 +1,12 @@
 .. currentmodule:: click
 
+Version next
+------------
+
+-   Prevent ``_NamedTextIOWrapper`` from closing streams owned by ``StreamMixer``.
+    :issue:`824` :issue:`2993` :pr:`3139`
+
+
 Version 8.3.1
 --------------
 
